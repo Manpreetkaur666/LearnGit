@@ -7,3 +7,4 @@
 - git branch -a (List all branches)
 - git checkout branchname ( Checkout branch on git to work in that)
 - git status
+Note: In companies we use Devbox 
