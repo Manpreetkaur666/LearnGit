@@ -8,3 +8,5 @@
 - git checkout branchname ( Checkout branch on git to work in that)
 - git status
 Note: In companies we use Devbox 
+
+- git cherry-pick (  Cherry picking is the act of picking a commit from a branch and applying it to another. git cherry-pick can be useful for undoing changes.)
