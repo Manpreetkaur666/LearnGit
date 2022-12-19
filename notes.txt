@@ -1,0 +1,9 @@
+- git init 
+- git add .
+- git commit 
+- git push 
+- git pull
+- git branch branchname ( Create Branch)
+- git branch -a (List all branches)
+- git checkout branchname ( Checkout branch on git to work in that)
+- git status
