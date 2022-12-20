@@ -10,3 +10,5 @@
 Note: In companies we use Devbox 
 
 - git cherry-pick (  Cherry picking is the act of picking a commit from a branch and applying it to another. git cherry-pick can be useful for undoing changes.)
+
+Note: Hotfix in Github - A Workflow is specified for handling Hotfix changes when the production app needs urgent change. To implement an urgent change, a Hotfix branch is created off the Main branch to test and implement the fix. Once it's complete, the Hotfix is merged with the Main branch.
